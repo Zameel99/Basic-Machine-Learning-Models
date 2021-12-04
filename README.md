@@ -1,4 +1,5 @@
 # ML-models
+The Project consisted of predictive models using linear regression, XGBoost, and Passive Aggressive Classifier. The accuracy of the models were also found. Some screenshots are shown below:
 ![Screenshot (125)](https://user-images.githubusercontent.com/74492000/144607756-f979d6ff-3dfb-417f-b938-7f1b4b61e2f6.png)
 ![Screenshot (126)](https://user-images.githubusercontent.com/74492000/144607772-db9c19a5-96d3-4078-b105-87554643422d.png)
 ![Screenshot (127)](https://user-images.githubusercontent.com/74492000/144607832-061ee4fc-1e5a-4477-9ca9-b05263b9d1a7.png)
